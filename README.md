@@ -1,2 +1,2 @@
-# Knowledge-Ingest
-AI powered pipeline to ingest text Youtube videos and podcasts to accelerate learning.
+# Ingest-Daily
+AI-powered information consumption tool that summarises youtube videos and Apple podcasts and uploads to Notion.
